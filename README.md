@@ -1,6 +1,7 @@
 # React + Vite + Tailwind
 
-
+## Documents folder contains the deliveriables documents
+   ###  `/docs`
 
 ## Available Scripts
 
