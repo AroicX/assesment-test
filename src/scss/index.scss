@@ -1,0 +1,31 @@
+@import "base/reset";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import "utils/breakpoints";
+@import "utils/variables";
+@import "utils/helpers";
+@import "utils/mixins";
+@import "utils/width";
+
+@import "base/fonts";
+
+@import "base/globals";
+@import "base/layout";
+
+@import "reusables/button";
+@import "reusables/text";
+@import "reusables/input";
+@import "reusables/tabs";
+@import "reusables/modal";
+
+@import "components/navigation";
+@import "components/post";
+@import "components/slider";
+
+//pages
+@import "pages/home";
+
+

@@ -1,0 +1,22 @@
+  <svg
+                width="17"
+                height="12"
+                viewBox="0 0 17 12"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M6.10986 11.21L0.999863 6.32L6.10986 1"
+                  stroke="#313848"
+                  strokeWidth="1.5"
+                  strokeMiterlimit="10"
+                  strokeLinejoin="round"
+                />
+                <path
+                  d="M17.0005 6L1.00049 6"
+                  stroke="#313848"
+                  strokeWidth="1.5"
+                  strokeMiterlimit="10"
+                  strokeLinejoin="round"
+                />
+              </svg>
